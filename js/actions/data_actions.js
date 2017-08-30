@@ -1,4 +1,4 @@
-// import * as DATA_UTILS from '../utils/data_utils';
+// import * as DATA_UTILS from '../utils/data';
 //
 // export const getSeedData = () => dispatch => (
 //   DATA_UTILS.fetchData()
