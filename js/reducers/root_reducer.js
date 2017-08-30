@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import DataReducer from './data_reducer';
+import ColumnReducer from './column_reducer';
 
 const RootReducer = combineReducers({
-  data: DataReducer
+  columns: ColumnReducer
 });
 
 export default RootReducer;
